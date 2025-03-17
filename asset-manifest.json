@@ -1,28 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.706754ec.css",
-    "main.js": "/static/js/main.c41e71bf.js",
-    "static/media/paris.jpg": "/static/media/paris.33dd54e95541d171d720.jpg",
-    "static/media/hotel5.png": "/static/media/hotel5.f144a76a53240dba181b.png",
-    "static/media/rome.webp": "/static/media/rome.9308980d659bead2467d.webp",
-    "static/media/hotel2.jpg": "/static/media/hotel2.c44531c06a5cce2a823e.jpg",
-    "static/media/tokio.jpg": "/static/media/tokio.0dc4d8eab81a951d46e1.jpg",
+    "main.css": "/static/css/main.71d6cbf2.css",
+    "main.js": "/static/js/main.f171747f.js",
     "static/media/brand-icons.svg": "/static/media/brand-icons.6729d29753e000c17489.svg",
-    "static/media/newYork.webp": "/static/media/newYork.6086986ff9995fd9979c.webp",
     "static/media/icons.svg": "/static/media/icons.62d9dae4e0040e81c980.svg",
-    "static/media/logo.png": "/static/media/logo.223bee6e34dff7871daf.png",
-    "static/media/hotel7.jpg": "/static/media/hotel7.c6bf0b425f996df183e4.jpg",
-    "static/media/hotel1.webp": "/static/media/hotel1.201947638881f7f92e86.webp",
-    "static/media/hotel3.jpg": "/static/media/hotel3.d0fa29e6f547402aab04.jpg",
-    "static/media/hotel6.jpg": "/static/media/hotel6.a096186e2f91393a9a91.jpg",
     "static/media/outline-icons.svg": "/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
     "static/media/icons.eot": "/static/media/icons.a01e3f2d6c83dc3aee17.eot",
     "static/media/icons.ttf": "/static/media/icons.c656b8caa454ed19b9a2.ttf",
     "static/media/brand-icons.eot": "/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
     "static/media/brand-icons.ttf": "/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
-    "static/media/hotel4.avif": "/static/media/hotel4.7a45a6b76675d9d26a8a.avif",
-    "static/media/hotel8.jpeg": "/static/media/hotel8.7c5d4dd70ce35ee5b2f8.jpeg",
     "static/media/brand-icons.woff": "/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/bootstrap.jpg": "/static/media/bootstrap.9fec13d1e29b41ce673e.jpg",
     "static/media/brand-icons.woff2": "/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
     "static/media/icons.woff": "/static/media/icons.425399f81e4ce7cbd967.woff",
     "static/media/icons.woff2": "/static/media/icons.38c6d8bab26db77d8c80.woff2",
@@ -30,13 +18,14 @@
     "static/media/outline-icons.ttf": "/static/media/outline-icons.5367103510b27b784827.ttf",
     "static/media/flags.png": "/static/media/flags.99f63ae7a743f21ab308.png",
     "static/media/outline-icons.woff": "/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/carbon.jpg": "/static/media/carbon.346e257e91dc6a0d1793.jpg",
     "static/media/outline-icons.woff2": "/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/index.html",
-    "main.706754ec.css.map": "/static/css/main.706754ec.css.map",
-    "main.c41e71bf.js.map": "/static/js/main.c41e71bf.js.map"
+    "main.71d6cbf2.css.map": "/static/css/main.71d6cbf2.css.map",
+    "main.f171747f.js.map": "/static/js/main.f171747f.js.map"
   },
   "entrypoints": [
-    "static/css/main.706754ec.css",
-    "static/js/main.c41e71bf.js"
+    "static/css/main.71d6cbf2.css",
+    "static/js/main.f171747f.js"
   ]
 }
